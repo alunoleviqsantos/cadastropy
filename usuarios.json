@@ -1,0 +1,10 @@
+[
+    {
+        "id": "f349e604-00b6-46e0-8cc1-98dee2540ebe",
+        "nome": "LEVI SANTOS VASCONCELOS",
+        "cpf": "11795798440",
+        "email": "levi69santos@gmail.com",
+        "idade": 18,
+        "senha": "scrypt:32768:8:1$GPymWMgAV02bytmq$6c409556849401bccc3f2b1a4c97dc7b9eafbbdd037261bf01fbe26c36358930a5ba952c66ee416009440e26d8e0cbdc1130fbb3834cdee177d795f0a4e492be"
+    }
+]
