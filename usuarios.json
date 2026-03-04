@@ -1,0 +1,27 @@
+[
+    {
+        "id": "f349e604-00b6-46e0-8cc1-98dee2540ebe",
+        "nome": "LEVI SANTOS VASCONCELOS",
+        "cpf": "11795798440",
+        "email": "levi69santos@gmail.com",
+        "idade": 18,
+        "senha": "scrypt:32768:8:1$GgblfTLTgCLB5TUx$a724ec6b0fae32d856be3dc632eb9d4a42e93b01188bb24e4522c43a7653bb7ff4d215e59921e833913cfb242ba19f18b18c07efb96f5c8c083ad216096ae377"
+    },
+    {
+        "id": "ff0653e5-7d8a-4eca-bfc8-354a54906683",
+        "nome": "marcos",
+        "cpf": "12365489564",
+        "email": "admin@senai.com",
+        "idade": "24",
+        "senha": "scrypt:32768:8:1$GgblfTLTgCLB5TUx$a724ec6b0fae32d856be3dc632eb9d4a42e93b01188bb24e4522c43a7653bb7ff4d215e59921e833913cfb242ba19f18b18c07efb96f5c8c083ad216096ae377"
+    },
+    {
+        "id": "a73c3ba8-fd2a-49bb-ba17-55ada64b4431",
+        "nome": "marcola",
+        "cpf": "89765894265",
+        "email": "marcos@alunosenai.com",
+        "idade": "86",
+        "senha": "scrypt:32768:8:1$lKAtDX1qNiJ9IaXu$0dbb284fb9fe2e07f05f2a6487fbcf2eb75117da498842ef470daf5f71a8212a3035a1af406e8f31d6c6d279c47f614a91fc61af32308361547e9b234f8b975f",
+        "nivel": "comum"
+    }
+]
